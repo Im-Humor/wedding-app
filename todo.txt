@@ -1,0 +1,32 @@
+setup server with mvc pattern
+
+create sqlite database for user storage
+
+create wedding planner app
+
+allow users to create weddings
+    users
+        firstname
+        planned lastname
+        email
+        username
+    wedding
+        date
+        wedding title
+        page_desc
+        partner1_name
+        partner2_name
+    caterer
+        wedding_id
+        name
+        service or provision
+    caterer_log_note
+        created_by
+        text
+        date
+    registry_item
+        name
+        price
+        link
+        amazon_true_false
+    wedding_comments
